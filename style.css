@@ -183,7 +183,7 @@ h5{
 	color: #BEBEBE;
 	text-align:left;
 	 position:relative;
-	 left:150px;
+	 left:180px;
 }
 .thumbnail{
 	display: block;
@@ -273,7 +273,7 @@ h5{
 	font-size: 10rem;
 	opacity: .1;
 	position:relative;
-	left:150px;
+	left:180px;
 	color: #BEBEBE;
 
 }
@@ -282,7 +282,7 @@ h5{
 	font-size: 10rem;
 	opacity: .1;
 	position: relative;
-	left:-50px;
+	left:20px;
 	color: #BEBEBE;
 
 }
